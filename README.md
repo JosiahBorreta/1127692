@@ -1,11 +1,15 @@
 # 1127692
 readme File
 
-<script>
-  document.onkeypress = function(e) {
-    if (e.which == 32) {
-      var list = ["Chicken", "Ribs", "Rice", "Noodles", "Bobcats"];
-      document.getElementById("list").innerHTML = list;}
-</script>
-
-<div id="list"></div>
+<ul>
+  <li>Ice Cream</li>
+  <li>Coffee</li>
+  <li>Chocolate</li>
+  <li>Traveling</li>
+  <li>Exploring Nature</li>
+  <li>Spending Time With Family and Friends</li>
+  <li>Reading Books</li>
+  <li>Hiking</li>
+  <li>Trying New Cuisines</li>
+  <li>Movies</li>
+</ul>
