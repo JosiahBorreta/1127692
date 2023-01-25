@@ -17,7 +17,7 @@ readme File
 <!DOCTYPE html>
 <html>
 <head>
-  <title>About Me</title>
+ 
 </head>
 <body>
   <h1>About Me</h1>
