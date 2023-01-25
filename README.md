@@ -12,7 +12,7 @@ readme File
   <li>Hiking</li>
   <li>Trying New Cuisines</li>
   <li>Movies</li>
-<img arc=https://imgv3.fotor.com/images/slider-image/goart_guide_pc_now_3.jpg>
+  <img src=https://imgv3.fotor.com/images/slider-image/goart_guide_pc_now_3.jpg>
 </ul>
 <!DOCTYPE html>
 <html>
