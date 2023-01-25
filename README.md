@@ -17,7 +17,11 @@ readme File
 <!DOCTYPE html>
 <html>
 <head>
- 
+ <style>
+  body {
+    background-color: blue;
+  }
+</style>
 </head>
 <body>
   <h1>About Me</h1>
