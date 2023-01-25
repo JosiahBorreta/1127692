@@ -13,7 +13,6 @@ readme File
   <li>Trying New Cuisines</li>
   <li>Movies</li>
 </ul>
-<img src=
 <!DOCTYPE html>
 <html>
 <head>
